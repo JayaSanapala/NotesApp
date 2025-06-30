@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>ProjectAccountSimulation</name>
+=======
+	<name>NotesApp</name>
+>>>>>>> b6e6a9794d5593127116d6acb29ee0a49abf01ab
 	<comment></comment>
 	<projects>
 	</projects>
